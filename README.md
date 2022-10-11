@@ -1,1 +1,1 @@
-# meddit-private
+# meddit
